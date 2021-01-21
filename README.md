@@ -1,4 +1,4 @@
-kris.failのソース。
+cdn.kris.failのソース。
 
 ### LICENSE
 
